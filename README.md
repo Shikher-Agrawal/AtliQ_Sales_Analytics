@@ -4,16 +4,6 @@ This project work on creating reports in **excel** for AtliQ Hardware's finance 
 
 In finance report I have prepare the **Profit & Loss statement** including Net Sales, Cost of Goods Sold (COGS), Gross Margin (GM) and GM % for a particular fiscal year and also for a particular month and quarter. In sales report I have prepare the **Customer Performance Report** and **Market Performance Report** for a particular region, division and country.
 
-## My learnings,
-
-📊 Excel Mastery: ~Learned Excel from its foundations to an advanced level. ~Mastered various functions like VLOOKUP, XLOOKUP, INDEXMATCH, and more. ~Became proficient in using Tables to manage and analyze data effectively. ~Created visually appealing Charts to represent data insights.
-
-🧹 Data Cleaning and Analysis: ~Acquired skills to clean and transform messy data. ~Explored techniques like Power Query to automate data cleaning. ~Calculated essential business metrics such as P&L, Mean, Mode, Median, Variance, and Standard Deviation.
-
-📈 Data Modeling and Analysis: ~Acquired knowledge about Data Modeling techniques. ~Explored the nuances of building effective data models for business analysis. ~Learned how to identify relationships and create hierarchies within data.
-
-📊 Business Reporting: ~Created comprehensive reports using Pivot Tables, enhancing data visualization. ~Utilized Power Pivot to manage and analyze complex datasets. ~Employed DAX (Data Analysis Expressions) to derive valuable insights from data.
-
 ## Task Performed
 
 1) Import the datasets in excel and perform **ETL** in **Power Query**.
@@ -22,4 +12,20 @@ In finance report I have prepare the **Profit & Loss statement** including Net S
 4) Create the date dimension table and fiscal year using power query **M-Language**
 5) Use **Data Analysis Expression** (DAX) function like SUM, DIVIDE, RELATED, CALCULATE, SUMX, DISTINCT for calculating appropriate measure and calculated columns.
 6) Learn the domain knowledge of finance and sales like **Profit & Loss Statement**.
+
+## My learnings,
+
+🌟 Data Cleaning and Combining: Learned techniques to clean and prepare data, ensuring accuracy and consistency. Acquired the ability to combine data from multiple sources for comprehensive analysis.
+
+🌟 Applying Business Math and Statistics: Proficient in applying essential mathematical and statistical concepts to analyze and interpret data effectively, revealing valuable insights.
+
+🌟 Data Transformation using Power Query: Leveraged the power of Power Query to perform complex data transformations, such as filtering, merging, and aggregating, enabling seamless data preparation for analysis.
+
+🌟 Working with Pivot Tables and Power Pivot: Excel's Pivot Tables and Power Pivot became indispensable tools for summarizing, analyzing, and visualizing data. Developed expertise in creating dynamic reports and performing calculations.
+
+🌟 Delving into Sales Analytics and Financial Analytics: Explored Excel's capabilities in sales and financial analysis, allowing me to track performance, identify trends, and generate insightful reports for informed decision-making.
+
+🌟 Real-time Business Application expertise: Applied Excel in real-time business scenarios, including Project Priority Matrix for effective project management and Scenario Planning for analyzing potential outcomes based on different assumptions.
+
+
 
